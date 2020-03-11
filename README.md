@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Password Strength Indicator - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Password Strength Indicator component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/password-strength-indicator)
+- [Info Page](https://codyhouse.co/ds/components/info/password-strength-indicator)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
